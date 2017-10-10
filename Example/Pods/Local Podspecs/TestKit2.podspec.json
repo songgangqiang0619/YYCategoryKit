@@ -1,0 +1,22 @@
+{
+  "name": "TestKit2",
+  "version": "0.1.0",
+  "summary": "A short description of TestKit2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/songgangqiang/TestKit2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "songgangqiang": "790030601@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/songgangqiang/TestKit2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestKit2/Classes/**/*"
+}
